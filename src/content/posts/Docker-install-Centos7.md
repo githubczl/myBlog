@@ -3,7 +3,7 @@ title: Docker-install-Centos7
 published: 2025-08-02
 description: ''
 image: ''
-tags: []
+tags: [docker,centos]
 category: ''
 draft: false 
 lang: ''
