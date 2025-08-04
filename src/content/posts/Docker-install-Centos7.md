@@ -4,7 +4,7 @@ published: 2025-08-02
 description: ''
 image: ''
 tags: [docker,centos]
-category: ''
+category: 'docker'
 draft: false 
 lang: ''
 ---

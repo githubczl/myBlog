@@ -4,7 +4,7 @@ published: 2025-08-03
 description: ''
 image: ''
 tags: [docker,mysql]
-category: ''
+category: 'docker'
 draft: false 
 lang: ''
 ---

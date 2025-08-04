@@ -4,7 +4,7 @@ published: 2025-08-03
 description: ''
 image: ''
 tags: [manjaro,git]
-category: ''
+category: 'manjaro'
 draft: false 
 lang: ''
 ---
